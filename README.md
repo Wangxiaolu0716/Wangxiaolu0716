@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://github.com/Wangxiaolu0716">
-    <img src="./profile/avatar.png" width="120" alt="mikumifa avatar" />
+    <img src="./profile/avatar.png" width="120" alt="王小路 avatar" />
   </a>
 
   <h1>Hi, I'm 王小路 👋</h1>
