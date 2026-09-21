@@ -10,7 +10,7 @@
     <a href="mailto:1291107645@qq.com">
       <img src="https://img.shields.io/badge/Email-1291107645%40qq.com-blue?style=flat-square&logo=gmail" />
     </a>
-    <img src="https://img.shields.io/badge/Code-C%2B%2B%20%7C%20Python%20%7C%20TypeScript-7f52ff?style=flat-square" />
+    <img src="https://img.shields.io/badge/Code-Python-7f52ff?style=flat-square" />
   </p>
 
   <p>
